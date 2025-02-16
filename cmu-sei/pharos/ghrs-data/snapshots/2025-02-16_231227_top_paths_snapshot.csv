@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cmu-sei/pharos,141,100
+/cmu-sei/pharos/blob/master/tools/ooanalyzer/ooanalyzer.pod,43,24
+/cmu-sei/pharos/blob/master/INSTALL.md,34,16
+/cmu-sei/pharos/tree/master/tools/ooanalyzer,31,21
+/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin,29,16
+/cmu-sei/pharos/tree/master,23,20
+/cmu-sei/pharos/blob/master/share/prolog/oorules/README.md,16,9
+/cmu-sei/pharos/issues/95,14,14
+/cmu-sei/pharos/tree/master/tools,14,10
+/cmu-sei/pharos/blob/master/tools/ooanalyzer/ida/README.md,10,10
