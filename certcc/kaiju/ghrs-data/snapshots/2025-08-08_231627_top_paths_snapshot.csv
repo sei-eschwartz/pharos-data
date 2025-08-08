@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CERTCC/kaiju,17,11
+/certcc/kaiju,13,7
+/certcc/kaiju/releases,8,7
+/CERTCC/kaiju/tree/main/buildSrc/src/main/groovy/kaiju/gradle,6,4
+/CERTCC/kaiju/blob/main/buildSrc/src/main/groovy/kaiju/gradle/GhidraHtmlPlugin.groovy,6,3
+/CERTCC/kaiju/blob/main/buildSrc/src/main/groovy/kaiju/gradle/MarkdownProcessor.groovy,4,2
+/CERTCC/kaiju/releases/tag/250709,3,3
+/CERTCC/kaiju/blob/main/buildSrc/src/main/groovy/kaiju/gradle/MarkdownToHtmlTask.groovy,3,2
+/CERTCC/kaiju/tree/main/docs,3,2
+/CERTCC/kaiju/tree/main/ghidra_scripts,3,2
