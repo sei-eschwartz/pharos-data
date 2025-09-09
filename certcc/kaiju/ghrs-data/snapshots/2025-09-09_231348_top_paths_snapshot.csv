@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CERTCC/kaiju,10,4
+/certcc/kaiju,6,3
+/CERTCC/kaiju/releases/tag/250828,6,3
+/CERTCC/kaiju/releases,4,2
+/CERTCC/kaiju/pull/100,4,1
+/CERTCC/kaiju/compare/250709...250828,2,2
+/CERTCC/kaiju/compare/main...edmcman:kaiju:main,2,2
+/CERTCC/kaiju/pulls,2,2
+/CERTCC/kaiju/releases/tag/250709,2,1
+/CERTCC/kaiju/actions,1,1
