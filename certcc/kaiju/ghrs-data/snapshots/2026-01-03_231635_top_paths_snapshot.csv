@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CERTCC/kaiju,24,17
+/certcc/kaiju,12,11
+/certcc/kaiju/releases,10,5
+/CERTCC/kaiju/releases,2,2
+/CERTCC/kaiju/releases/tag/251218,2,1
+/CERTCC/kaiju/blob/02730b5095eb3b9f6a9f6dfe333c13038fc5ccbe/.github/workflows/run_tests_on_push_pr.yml,1,1
+/CERTCC/kaiju/blob/main/INSTALL.md,1,1
+/CERTCC/kaiju/blob/main/data/apidb/kernel32.dll,1,1
+/CERTCC/kaiju/blob/main/data/signature.json,1,1
+/CERTCC/kaiju/blob/main/docs/GhiHorn.md,1,1
