@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CERTCC/kaiju,22,15
+/certcc/kaiju,9,8
+/certcc/kaiju/releases,9,4
+/CERTCC/kaiju/blob/main/docs/GhiHorn.md,4,1
+/certcc/kaiju/blob/main/build.gradle,3,3
+/certcc/kaiju/issues,3,3
+/CERTCC/kaiju/releases/tag/260116,2,2
+/CERTCC/kaiju/issues/23,2,1
+/CERTCC/kaiju/blob/042be73a14d350bcb1a13d26ed86ade507f2c2bd/src/main/java/kaiju/tools/ghihorn/hornifer/GhiHornifier.java,1,1
+/CERTCC/kaiju/blob/3e130b11bcbba0960f073fb2e5b7b0027434700b/.github/workflows/release_on_tag.yml,1,1
