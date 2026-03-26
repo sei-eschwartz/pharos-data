@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CERTCC/kaiju,21,18
+/certcc/kaiju,11,10
+/CERTCC/kaiju/releases/tag/260309,6,5
+/CERTCC/kaiju/releases,5,5
+/CERTCC/kaiju/blob/main/docs/GhiHorn.md,5,3
+/CERTCC/kaiju/blob/bf5cef53063bec52177ed4c0e93a94dbe0d48b9e/docs/FnHashing.md,4,1
+/CERTCC/kaiju/tree/main/ghidra_scripts,3,3
+/certcc/kaiju/releases,3,3
+/CERTCC/kaiju/blob/bf5cef53063bec52177ed4c0e93a94dbe0d48b9e/INSTALL.md,3,1
+/CERTCC/kaiju/blob/5235e567f493ba349852ce60259411e00970b253/src/main/java/kaiju/tools/disasm/DisasmImprovementsAnalyzer.java,2,1
