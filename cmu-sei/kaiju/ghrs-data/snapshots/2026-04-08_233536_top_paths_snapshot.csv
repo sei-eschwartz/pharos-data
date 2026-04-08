@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cmu-sei/kaiju,34,19
+/cmu-sei/kaiju/commit/1e68f0e4190051ce771608651f05f0faae23abe4,2,1
+/cmu-sei/kaiju/commit/6cd9a998444ce5c302e375f8432356149f673fc5,2,1
+/cmu-sei/kaiju/tree/main,2,1
+/cmu-sei/kaiju/tree/main/src/main,2,1
+/cmu-sei/kaiju/tree/main/src/main/java/kaiju,2,1
+/cmu-sei/kaiju/actions/runs/17553868561,1,1
+/cmu-sei/kaiju/blob/main/ghidra_scripts/GhiHornHeadlessTool.java,1,1
+/cmu-sei/kaiju/blob/main/ghidra_scripts/KaijuExportXrefsToCSVHeadless.java,1,1
+/cmu-sei/kaiju/blob/main/ghidra_scripts/KaijuExportYaraHeadless.java,1,1
