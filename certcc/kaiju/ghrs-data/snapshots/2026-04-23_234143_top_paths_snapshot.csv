@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CERTCC/kaiju,13,10
+/certcc/kaiju,8,5
+/certcc/kaiju/releases,4,4
+/CERTCC/kaiju/releases,3,3
+/CERTCC/kaiju/blob/main/docs/GhiHorn.md,2,2
+/CERTCC/kaiju/pulls,2,2
+/CERTCC/kaiju/releases/tag/260309,2,2
+/CERTCC/kaiju/issues,2,1
+/CERTCC/kaiju/actions,1,1
+/CERTCC/kaiju/blob/main/src/main/java/kaiju/tools/disasm/impl/X86ImproverStrategy.java,1,1
