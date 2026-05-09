@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/CERTCC/kaiju,28,20
+/certcc/kaiju,11,7
+/CERTCC/kaiju/releases/tag/260309,10,7
+/CERTCC/kaiju/releases,6,6
+/certcc/kaiju/releases,6,5
+/CERTCC/kaiju/pull/107,4,2
+/CERTCC/kaiju/tree/main,2,2
+/CERTCC/kaiju/blob/main/README.md,1,1
+/CERTCC/kaiju/blob/main/docs/GhiHorn.md,1,1
+/CERTCC/kaiju/blob/main/src/main/java/kaiju/tools/ghihorn/tools/pathanalyzer/PathAnalyzerController.java,1,1
